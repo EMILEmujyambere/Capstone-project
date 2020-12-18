@@ -1,5 +1,6 @@
 package com.capstoneproject.elie_emile;
 
+
 public class elie_emile_Cuisine {
     private int id;
     private int restaurant_id;
